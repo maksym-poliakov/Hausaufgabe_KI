@@ -1,0 +1,7 @@
+Notiren/
+Unterricht/
+.idea/
+.venv/
+.git/
+.env
+Hausaufgaben/.env
